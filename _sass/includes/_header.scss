@@ -1,6 +1,9 @@
 .site-header {
   @extend %padding-small;
-  background: $brand-color;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-attachment: fixed;
   border-top:5px solid $header-desc-background-color;
   display: inline-block;
   width: 100%;
@@ -19,6 +22,7 @@
   }
 
   .site-title {
+    color: white;
     font-weight: bold;
     font-size: 1em;
     line-height: 1.5;

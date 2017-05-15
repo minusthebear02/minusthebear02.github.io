@@ -1,4 +1,4 @@
-<header class="site-header">
+<header class="site-header" style="background-image: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)), url('{{ site.baseurl }}/img/hero-image.jpg')">
 	<nav class="site-nav">
 		<ul>
 			{% for page in site.pages %}
@@ -13,9 +13,7 @@
 		</ul>
 	</nav>
 
-	{% if site.theme_settings.header_text %}
-  <div class="call-out" 
-  style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')">
+  <div class="call-out">
   	<h1 class="site-title">
 			<a href="{{ site.baseurl }}/">{{ site.theme_settings.title }}</a>
 		</h1>
@@ -27,5 +25,4 @@
 	    {% include icons.html %}
 		</ul>
   </div>
-  {% endif %}
 </header>
