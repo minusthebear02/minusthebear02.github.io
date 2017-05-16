@@ -4,7 +4,8 @@
   box-sizing: border-box;
 }
 html {
-  background: $background-color;
+  background: white;
+
 }
 
 // Typography
@@ -15,6 +16,7 @@ html {
   background: $selection-color;
 }
 body {
+  background-color: #9DD6EF;
   color: $text-color;
   font-family: $font-family-main;
   font-size: $font-size;

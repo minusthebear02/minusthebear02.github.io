@@ -26,7 +26,7 @@ Our main focus was on creating three main pages: Home page, Collections page, an
 
  Functionality being of the highest importance, I brainstormed each behavior of the music player, big and small.
 
-<video width="480" height="360" align="center" loop autoplay controls>
+<video width="560" height="420" align="center" loop autoplay controls>
     <source src="{{ site.baseurl }}/vid/blocjamsdemo.mp4" type="video/mp4">
 </video>
 

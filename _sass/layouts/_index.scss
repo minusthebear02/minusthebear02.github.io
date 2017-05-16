@@ -14,7 +14,7 @@
     a {
       font-size:0.8em;
       text-transform: uppercase;
-      color:#d8d8d8;
+      color: $name-color;
     }
   }
   ul {
@@ -71,6 +71,7 @@
 
 // Work listing
 .work {
+  background-color: #FF7368;
   @extend %padding-regular;
   background-size: $feature-image-size;
   text-align: center;
