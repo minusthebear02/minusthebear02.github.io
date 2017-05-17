@@ -2,15 +2,28 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/color.png"
 ---
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+In a world of automation and consumerism, I prefer to make. The sense of accomplishment brought by building something that you and your peers can enjoy is unlike anything else. For me it started with brewing my own beer and woodworking but when I realized the potential of what I could make computer programming I dove in head first. Being able to develop a web application or website that could be seen and used by millions of people is what has driven me to enter the web development field. 
 
-Jowl sirloin doner shank flank. Leberkas ham ball tip, jowl pastrami short loin pork cow. Rump ground round chuck leberkas shank picanha bacon meatloaf filet mignon. Ball tip swine brisket jowl pig sausage corned beef leberkas pastrami porchetta kevin beef. Ground round tail cupim ribeye, landjaeger meatloaf pig prosciutto. Shank sirloin porchetta frankfurter kevin corned beef ribeye rump doner. Shankle pork loin beef prosciutto short loin venison, ribeye swine kevin pastrami landjaeger ham hock alcatra sirloin ground round.
+## Where I Came From ##
 
-Pork chop pork belly bresaola, turducken porchetta sausage cupim pork loin bacon pancetta. Meatloaf tail frankfurter pork belly chicken. Turducken pork prosciutto, pork chop hamburger spare ribs jerky salami leberkas meatball. Tenderloin porchetta strip steak jerky, spare ribs beef ribs pork chop tail short loin sausage. Doner biltong andouille ribeye corned beef. Prosciutto boudin corned beef pork loin tail, ham picanha biltong chicken alcatra. Hamburger frankfurter bacon tail jowl filet mignon rump brisket turducken.
+I grew up in Pennsylvania before moving up to Long Island to attend Hofstra University. While there I took a few elective Computer Science courses but graduated with a degree in Marketing. From there I got a job in sales and, while I love the people I work with and dealing with clients, sales just does not give me that accomplished feeling.
 
-Biltong landjaeger swine pork sausage chicken cow cupim ham hock corned beef. Salami alcatra turkey doner rump, ribeye turducken frankfurter pork loin. Alcatra fatback strip steak, frankfurter beef ribs tail pork loin. Jerky shankle filet mignon beef ribs ham, swine sausage sirloin brisket picanha alcatra bresaola.
+## What I've Done ##
 
-Short ribs ham hock jerky, sausage beef ribs shoulder beef landjaeger rump sirloin leberkas flank turkey alcatra. Andouille pancetta cupim fatback sirloin landjaeger corned beef turducken tri-tip turkey capicola spare ribs. Chuck hamburger alcatra pig tongue, filet mignon rump bresaola. Porchetta corned beef alcatra beef ribs. Ham hock boudin picanha salami tri-tip ham.
+I've spent countless hours on self taught computer programming courses like codecademy and khan academy while also making dummy websites, for instance, for my home brewery Matchstick Brewing Co. But what I'm most proud of is taking the leap toward the full career change by enrolling in a rigorous bootcamp called Bloc. While there I've been firming up my knowdledge of HTML and CSS while diving deeper into some of the more complicated languages and tools.
+
+## Languages, Libraries & Frameworks I've Worked With ##
+
+  * HTML
+  * CSS
+  * Javascript
+  * jQuery
+  * AngularJS
+  * Twitter Bootstrap
+  * Jekyll
+
+## What Makes Me... Me ##
+
+When I'm not computer programming I'm usually out playing golf or working on my next beer recipe. I'm a huge baseball fan as well and play whenever I get the chance, I love traveling, and I try (but usually fail) to take great photos.

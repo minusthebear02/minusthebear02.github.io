@@ -2,7 +2,7 @@
 layout: post
 title: BlocJams
 thumbnail-path: "img/blocjams.png"
-short-description: BlocJams is a Spotify replica for finding the best music and streaming it online.
+short-description: A music app for finding and streaming underground tunes
 
 ---
 

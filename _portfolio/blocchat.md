@@ -2,7 +2,7 @@
 layout: post
 title: BlocChat
 thumbnail-path: "img/blocchat.png"
-short-description: Build an easy to use chat application
+short-description: A simple, minimalist chat application
 
 ---
 
