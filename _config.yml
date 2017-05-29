@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://markfroehlich.com" # the base hostname & protocol for your site
+baseurl: "http://www.markfroehlich.com" # the subpath of your site, e.g. /blog/ (optional)
+url: "http://www.markfroehlich.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -25,7 +25,7 @@ theme_settings:
   flickr:
   github: "minusthebear02"
   google_plus:
-  instagram:
+  instagram: "mfroeh32"
   linkedin:  "https://www.linkedin.com/in/mark-froehlich-b76b2084/"
   pinterest:
   reddit:
